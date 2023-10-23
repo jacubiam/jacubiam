@@ -1,7 +1,15 @@
+<p align="center" width="100%">
+    <img alt="heart-icon" src="/heart.png">
+</p>
 <h1 align="center">Hello there, I'm Joaquin Juarez</h1>
 <h3 align="center">A Technoloy Enthusiast 🚀</h3>
-I'm Joaquin Juarez, a 27-year-old man from El Salvador. I'm currently studying to become a web developer.
+I'm a 27-year-old man from El Salvador, I'm currently studying to become a web developer. I've been relearning things I already knew and learning new ones. Hoping some day I can build my own open source projects and/or help with the ones that already exist.
 
+### 📘 Some of my projects
+Coming Soon...
+<br>
+<br>
+<br>
 ### 🧰 Languages and Tools
 
 
@@ -20,4 +28,4 @@ I'm Joaquin Juarez, a 27-year-old man from El Salvador. I'm currently studying t
 
 #
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacubiam&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jacubiam" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacubiam&show_icons=true&locale=en&layout=compact&theme=dracula" alt="jacubiam" /></p>
