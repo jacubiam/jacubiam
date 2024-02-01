@@ -1,4 +1,4 @@
-![Banner](https://res.cloudinary.com/dk2oxzxoo/image/upload/c_fill,h_350,w_850/v1706749037/banner_gh.png)
+![Banner](https://res.cloudinary.com/dk2oxzxoo/image/upload/c_fill,h_250,q_100,r_30,w_850,x_0/v1706749037/banner_gh.png)
 <p align="center" width="100%">
     <img alt="heart-icon" src="/heart.png">
 </p>
